@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-👋 Hi there! I'm Saransh Jindal, a passionate and driven B.Tech graduate with a keen interest in project and product management. My journey is fueled by a relentless curiosity and a desire to learn and grow every day.
+👋 Hi there! I'm ***Saransh Jindal***, a passionate and driven B.Tech graduate with a keen interest in project and product management. My journey is fueled by a relentless curiosity and a desire to learn and grow every day.
 
 ## About Me
 
